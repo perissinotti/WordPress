@@ -1,5 +1,5 @@
 # Getting Started with WordPress :octocat:
-March. 29th, 2019
+November 18th, 2019
 
 In this repository you will find the resources that were shared during the workshop and the presentation slides in pdf format. Download all files by clicking on the "Clone or download" green button on the top right.
 
